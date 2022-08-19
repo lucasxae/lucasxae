@@ -1,7 +1,7 @@
 ### Oi!! Eu sou o Lucas Chaves
 
 - 🔭 Trabalho com Suporte tecnico
-- 🌱 Estudando PHP, C# e Banco de Dados
+- 🌱 Estudando PHP, C#, JavaScript e JQuery
 - 👯 e-mail profissional: lucas_chaves14@outlook.com
 - 🤔 Aluno Cotemig
 
