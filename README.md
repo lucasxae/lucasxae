@@ -1,8 +1,11 @@
-### Oi!! Eu sou o Lucas Chaves
+### Hello! My name is Lucas Chaves
+(C# | .Net | SQL | ASP .Net ) 🚀
 
-- 🔭 Em busca de novos conhecimentos
-- 🌱 Aluno de Engenharia de Software
-- 👯 e-mail profissional: lucas_chaves14@outlook.com
+##
+
+- Software Enginner 
+- Software Enginner Student
+- Looking for new ideas to coding and trying to be bettar than yesterday
 
 <div align="center">
   <a href="https://github.com/lucasxae">
