@@ -5,7 +5,7 @@
 
 - Software Enginner 
 - Software Enginner Student
-- Looking for new ideas to coding and trying to be bettar than yesterday
+- Looking for new ideas to coding and trying to be better than yesterday
 
 <div align="center">
   <a href="https://github.com/lucasxae">
