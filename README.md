@@ -3,7 +3,7 @@
 
 ##
 
-- Software Enginner 
+- Software Enginner at Minds Digital
 - Software Enginner Student
 - Looking for new ideas to coding and trying to be better than yesterday
 
