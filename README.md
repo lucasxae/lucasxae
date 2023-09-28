@@ -1,5 +1,5 @@
 ### Hello! My name is Lucas Chaves
-(C# | .Net | SQL | ASP .Net ) 🚀
+(C# | .Net | SQL | ASP .Net | React | Typescript ) 🚀
 
 ##
 
